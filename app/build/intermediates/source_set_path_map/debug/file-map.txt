@@ -1,0 +1,7 @@
+com.bentleywagonjack.televised.app-pngs-0 /home/ben/Televised/app/build/generated/res/pngs/debug
+com.bentleywagonjack.televised.app-resValues-1 /home/ben/Televised/app/build/generated/res/resValues/debug
+com.bentleywagonjack.televised.app-packageDebugResources-2 /home/ben/Televised/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.bentleywagonjack.televised.app-packageDebugResources-3 /home/ben/Televised/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.bentleywagonjack.televised.app-merged_res-4 /home/ben/Televised/app/build/intermediates/merged_res/debug
+com.bentleywagonjack.televised.app-debug-5 /home/ben/Televised/app/src/debug/res
+com.bentleywagonjack.televised.app-main-6 /home/ben/Televised/app/src/main/res

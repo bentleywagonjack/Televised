@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-mdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-mdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-hdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-hdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-xhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-xhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-xxhdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-mdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-mdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-xxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-xhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-xhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_adaptive_fore.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-xxxhdpi/ic_launcher_adaptive_fore.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-hdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-hdpi/ic_launcher_adaptive_back.png"
+    },
+    {
+        "merged": "com.bentleywagonjack.televised.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_adaptive_back.png.flat",
+        "source": "com.bentleywagonjack.televised.app-main-6:/mipmap-xxxhdpi/ic_launcher_adaptive_back.png"
+    }
+]

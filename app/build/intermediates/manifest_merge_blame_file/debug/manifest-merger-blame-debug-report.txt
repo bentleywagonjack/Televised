@@ -1,0 +1,45 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.bentleywagonjack.televised"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->/home/ben/Televised/app/src/main/AndroidManifest.xml:5:5-79
+11-->/home/ben/Televised/app/src/main/AndroidManifest.xml:5:22-77
+12    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+12-->/home/ben/Televised/app/src/main/AndroidManifest.xml:6:5-74
+12-->/home/ben/Televised/app/src/main/AndroidManifest.xml:6:22-72
+13
+14    <application
+14-->/home/ben/Televised/app/src/main/AndroidManifest.xml:8:5-17:19
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:label="Televised"
+17-->/home/ben/Televised/app/src/main/AndroidManifest.xml:9:9-34
+18        android:theme="@style/AppTheme" >
+18-->/home/ben/Televised/app/src/main/AndroidManifest.xml:10:9-40
+19        <activity
+19-->/home/ben/Televised/app/src/main/AndroidManifest.xml:11:9-16:20
+20            android:name="com.bentleywagonjack.televised.MainActivity"
+20-->/home/ben/Televised/app/src/main/AndroidManifest.xml:11:19-47
+21            android:exported="true" >
+21-->/home/ben/Televised/app/src/main/AndroidManifest.xml:11:48-71
+22            <intent-filter>
+22-->/home/ben/Televised/app/src/main/AndroidManifest.xml:12:13-15:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/home/ben/Televised/app/src/main/AndroidManifest.xml:13:17-68
+23-->/home/ben/Televised/app/src/main/AndroidManifest.xml:13:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/home/ben/Televised/app/src/main/AndroidManifest.xml:14:17-76
+25-->/home/ben/Televised/app/src/main/AndroidManifest.xml:14:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>

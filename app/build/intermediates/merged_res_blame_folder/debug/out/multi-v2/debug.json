@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.bentleywagonjack.televised.app-merged_res-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/ben/Televised/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "308"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "158",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "411"
+                    }
+                },
+                {
+                    "source": "/home/ben/Televised/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,102",
+                        "endColumns": "46,55",
+                        "endOffsets": "97,153"
+                    }
+                }
+            ]
+        }
+    ]
+}

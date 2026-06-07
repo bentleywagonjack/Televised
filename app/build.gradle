@@ -1,0 +1,13 @@
+apply plugin: 'com.android.application'
+android {
+    compileSdk 34
+    namespace "com.bentleywagonjack.televised"
+    defaultConfig {
+        applicationId "com.bentleywagonjack.televised"
+        minSdk 26
+        targetSdk 34
+        versionCode 1
+        versionName "1.0"
+    }
+}
+dependencies {}	
